@@ -12,7 +12,7 @@ Management of book rental.
 
 ## Features
 - User self registration.
-- CRUD for books, users, categorys.
+- CRUD for books, users, categorys, records.
 - Delayed rental time checking.
 
 > ⚠️ For more details: [Report](./report.pdf)
