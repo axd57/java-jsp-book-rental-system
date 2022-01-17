@@ -11,7 +11,7 @@ Management of book rental.
 - MS SQL Server 
 
 ## Features
-- user self registration
+- User self registration
 - CRUD for books, users, categorys.
 - Delayed rental time checking.
 
